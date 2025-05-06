@@ -1,4 +1,4 @@
-# RSTY-R-to-A-
+# RSTY (ASTY)
 
 ## Introduction
 - This is supposed to use Lets-Get-Rusty's RSTY stack and use updated libraries
